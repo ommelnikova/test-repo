@@ -1,4 +1,5 @@
 const x = 10;
 
-lalala x = 5;
+let x = caches;
+lalala x = 55;
 
