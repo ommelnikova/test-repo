@@ -1,3 +1,4 @@
 const x = 10;
 
-x;
+lalala x = caches;
+
